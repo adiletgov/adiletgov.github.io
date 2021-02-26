@@ -1,0 +1,41 @@
+body{
+  font-family: "Ubuntu";
+}
+
+h1{
+  font-family: "Montserrat-Bold"
+}
+#kazan-title{
+  background-color: #e3fdfd;
+  padding: 2% 10%;
+}
+.img-kazan{
+  width: 300px;
+  margin-left: 120px;
+}
+.navbar{
+  margin-bottom: 10px;
+  padding: 0;
+}
+.title-h1{
+  margin-top: 50px;
+}
+.down-button{
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+.feature-grid{
+  padding: 2% 10%;
+}
+.fetures{
+  text-align: center;
+  padding-top: 100px;
+}
+.fas_feat{
+  font-size: 75px;
+  color: #eb596e;
+  margin-bottom: 20px;
+}
